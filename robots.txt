@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://www.codexeg.net/sitemap.xml
+Sitemap: https://www.technicalz.one/sitemap.xml
