@@ -1181,6 +1181,7 @@ header .portfolio_menu .burger_menu .dot_icon .dot {
 .wave_two_section_one {
   background: url("../img/home_three/first_banner.jpg") no-repeat scroll center 0/cover;
   position: relative;
+  min-height: 100vh; /* Ensure the section takes up full screen height */
 }
 .wave_two_section_one .t_two {
   bottom: 100px;
